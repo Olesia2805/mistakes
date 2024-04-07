@@ -6,7 +6,7 @@ def multiply_numbers():
     print("Multiplication result:", result)
 
 multiply_numbers()
-                                                                                                         
+"""                                                                                                
 
 def multiply_numbers():
     num1 = float(input("Enter the first number: "))
