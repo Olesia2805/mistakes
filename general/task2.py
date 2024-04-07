@@ -5,7 +5,7 @@ def find_max():
     print("Maximum number:", max_number)
 
 find_max()
-
+"""
 
 def find_max():
     numbers = input("Enter numbers separated by spaces: ")
