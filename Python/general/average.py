@@ -1,17 +1,17 @@
 """
 def calculate_average():
-    num1 = float(input("Введіть перше число: "))
-    num2 = float(input("Введіть друге число: "))
+    num1 = float(input("Enter the first number: "))
+    num2 = float(input("Enter the second number: "))
     average = num1 + num2 / 2
-    print("Середнє значення чисел:", average)
+    print("Average of numbers:", average)
 
 calculate_average()
 """
 
 def calculate_average():
-    num1 = float(input("Введіть перше число: "))
-    num2 = float(input("Введіть друге число: "))
+    num1 = float(input("Enter the first number: "))
+    num2 = float(input("Enter the second number: "))
     average = (num1 + num2) / 2
-    print("Середнє значення чисел:", average)
+    print("Average of numbers:", average)
 
 calculate_average()
